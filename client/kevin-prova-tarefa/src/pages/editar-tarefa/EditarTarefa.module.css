@@ -1,0 +1,27 @@
+.formulario {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 2px rgb(204, 204, 204);
+    padding: 1rem;
+    width: 50%;
+}
+
+.titulo {
+    font-size: 2.4rem;
+    font-weight: bold;
+    justify-self: center;
+    margin: 0px;
+    margin-bottom: 5%;
+    margin-top: 4%;
+}
+
+.caixaBotao {
+    display: flex;
+    justify-content: center; 
+    align-content: bottom;
+}
+
+.botao {
+    background: blue !important;
+    border: 0;
+}
